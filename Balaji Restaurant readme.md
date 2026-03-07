@@ -1,6 +1,6 @@
 # Balaji Fast Food Sales Analysis
 
-This was a personal project I worked on to practice data analysis using a real-world restaurant dataset. The dataset contains 1000 transaction records from Balaji Fast Food covering 2022 and 2023.
+This was a personal project I worked on to practice data analysis using a real-world restaurant dataset. The dataset contains 1000 transaction records from Balaji Fast Food covering 2022 and 2023. 
 
 ---
 
