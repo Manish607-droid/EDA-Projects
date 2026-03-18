@@ -11,6 +11,8 @@ The major objective of this project was to analyze the number of people who were
 
 ## Dataset Overview
 This dataset contains the number of people from countries of COVID-19 cases recorded on April 29, 2020. This dataset contains the information of only one day (April 29, 2020).
+
+
 It consists of 6 columns which are as follows:
 
 1) Date : Represents the date when the data was recorded. In this dataset, all records are from April 29, 2020.
@@ -32,7 +34,7 @@ The steps performed on this dataset are as follows:
 - After the dates were separated into different columns. Then, the date column was further removed.
 
 ## 2. Featured Engineering
-- To new columns Mortality rate and recovery rate were created. It was done to see which countriws had the highest recovery and mortality rate.
+- To new columns Mortality rate and Recovery rate were created. It was done to see which countries had the highest recovery and mortality rate.
 - Recovered rate = (Recovered/Confirmed) * 100
 - Mortality rate = (Death/Confirmed) * 100
 
@@ -45,7 +47,7 @@ The steps performed on this dataset are as follows:
 - Using the Matplotlib libraries various charts were created for visualzation of the data
 
 - Horizontal Bar Charts were used for Top 10 Countries For Most Confirmed Cases
-- Bar Charts were used for Top 10 COuntries for Most Deaths by COVID-19 and Top 10 Countries For Most Recovered Cases form CoVID-19.
+- Bar Charts were used for Top 10 Countries for Most Deaths by COVID-19 and Top 10 Countries For Most Recovered Cases form COVID-19.
 - Heatmaps and Pairplots for Correlations.
 
 
@@ -59,8 +61,8 @@ The steps performed on this dataset are as follows:
 -  There is a positive correlation between confirmed cases and recovered (0.596).
 
 ## 6. Recommendations
-- Although countries like Italy and UK fall under one of the highest death and reported cases but in terms of recovery they are little behind. Hence,
-  they should check healthcare responses and make more people aware about the cases.
+- Although countries like Italy and UK fall under one of the highest death and reported cases but in terms of recovery they are little behind. Hence,they should check healthcare responses and make more people aware about the cases.
+  
 - Since the data consists the information of only one day hence, more data should be collected to predict the long term trends in order to provide accurate insights.
 
-- 
+
