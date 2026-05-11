@@ -1,6 +1,6 @@
 # EDA Projects
 
-A collection of data analysis projects developed as part of my ICT Business Analysis 
+A collection of data analysis projects developed as part of my Business Analysis 
 studies. Each project applies structured analytical techniques to real-world business 
 datasets — covering sales performance, marketing effectiveness, and public health data 
 — with the goal of translating raw data into actionable business insights.
